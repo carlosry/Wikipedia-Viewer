@@ -1,1 +1,39 @@
+body {
+  background-color: #1AA6B7;
+}
 
+#search {
+  color: #022D41;
+  text-align: center;
+  font-size: 40px;
+  font-family: monospace;
+  margin: 200px auto;
+  background-image:
+}
+
+.col-lg-6 {
+  margin: 0 auto;
+}
+
+p {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background-color: #FE424D;
+}
+
+.fa-search {
+  color: #022D41;
+}
+
+#results {
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.4);;
+  width: 100%;
+  font-size: 20px;
+}
+
+.fa-wikipedia-w {
+  font-size: 80px;
+}
